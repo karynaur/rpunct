@@ -1,3 +1,10 @@
+## Dependency fix torch version
+
+```bash
+pip install git+https://github.com/karynaur/rpunct.git
+```
+
+
 # ✏️ rpunct - Restore Punctuation
 [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)]()
 
